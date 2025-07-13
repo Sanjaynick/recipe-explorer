@@ -1,0 +1,115 @@
+{
+    "recipes":[
+        {
+            "id":1,
+            "title":"Chicken Rice",
+            "ingredients":[
+                {"products":"1 cup cooked chicken"},
+                {"products":"2 cups cooked rice"},
+                {"products":"1/2 cup frozen peas and carrots"},
+                {"products":"1 small onion"},
+                {"products":"2–3 green onions"},
+                {"products":"2 eggs"},
+                {"products":"2 cloves garlic"},
+                {"products":"1 tsp ginger"},
+                {"products":"2–3 tbsp soy sauce"},
+                {"products":"1 tbsp oyster sauce"},
+                {"products":"1/2 tsp sesame oil"},
+                {"products":"Salt & pepper"},
+                {"products":"2 tbsp vegetable oil"}
+            ],
+            "instructions":[
+                {"do":"Dice or shred your cooked chicken"},
+                {"do":"Chop onions, garlic, and green onions"},
+                {"do":"Beat the eggs in a small bowl"},
+                {"do":"Heat 1 tbsp oil in a large pan or wok over medium heat"},
+                {"do":"Pour in the eggs and scramble until just cooked"},
+                {"do":"Remove and set aside"},
+                {"do":"Add the remaining 1 tbsp oil to the pan"},
+                {"do":"Sauté the onion, garlic, and ginger for 1–2 minutes until fragrant"},
+                {"do":"Add peas and carrots, and cook for another 2–3 minutes"},
+                {"do":"Turn the heat to high"},
+                {"do":"Add the cold rice and chicken"},
+                {"do":"Stir-fry everything together for 2–3 minutes, breaking up clumps of rice"},
+                {"do":"Add soy sauce, oyster sauce (if using), and sesame oil"},
+                {"do":"Return the scrambled eggs to the pan"},
+                {"do":"Mix thoroughly and cook another 1–2 minutes until well combined"},
+                {"do":"Add sliced green onions (green parts only)"},
+                {"do":"Taste and adjust seasoning with salt and pepper"}
+
+            ],
+            "time":"25 - Minutes",
+            "serving":"2-3 Peoples"
+        },
+         {
+            "id":2,
+            "title":"Egg Rice",
+             "ingredients":[
+                {"products":"2 cups cooked rice (preferably cold, day-old rice)"},
+                {"products":"2–3 eggs, beaten"},
+                {"products":"1/2 cup frozen peas and carrots"},
+                {"products":"1 small onion, finely chopped"},
+                {"products":"2 green onions, sliced (optional, for garnish and flavor)"},
+                {"products":"2 cloves garlic, minced"},
+                {"products":"2–3 tbsp soy sauce"},
+                {"products":"1/2 tsp sesame oil"},
+                {"products":"Salt and black pepper, to taste"},
+                {"products":"2 tbsp vegetable oil (or any neutral oil)"}
+            ],
+             "instructions":[
+                {"do":"Heat 1 tbsp of oil in a large skillet or wok over medium heat."},
+                {"do":"Add the beaten eggs and cook, stirring gently until just set."},
+                {"do":"Remove from the pan and set aside."},
+                {"do":"Add another 1 tbsp of oil."},
+                {"do":"Sauté the onion and garlic until fragrant (about 1–2 minutes)."},
+                {"do":"Add peas and carrots, and stir-fry until tender (2–3 minutes)."},
+                {"do":"Increase the heat to high."},
+                {"do":"Add the cold rice and break apart any clumps."},
+                {"do":"Stir-fry everything for 2–3 minutes until heated through and well mixed."},
+                {"do":"Add soy sauce, sesame oil, and scrambled eggs."},
+                {"do":"Toss everything together until evenly coated."},
+                {"do":"Season with salt and pepper to taste."},
+                {"do":"Add sliced green onions just before serving for freshness and flavor."}
+            ],
+            "time":"20 - Minutes",
+            "serving":"2-3 Peoples"
+        },
+         {
+            "id":3,
+            "title":"Veg Rice",
+            "ingredients":[
+                {"products":"2 cups cooked rice (preferably cold/day-old for best texture)"},
+                {"products":"1/2 cup carrots, finely chopped"},
+                {"products":"1/2 cup green beans, chopped"},
+                {"products":"1/2 cup bell peppers (red/green/yellow), chopped"},
+                {"products":"1/2 cup cabbage, shredded"},
+                {"products":"1/2 cup green peas (frozen or fresh)"},
+                {"products":"2 spring onions, chopped (white and green parts separated)"},
+                {"products":"2 cloves garlic, minced"},
+                {"products":"1-inch ginger, grated (optional)"},
+                {"products":"2–3 tbsp soy sauce"},
+                {"products":"1 tbsp vinegar (white or rice vinegar)"},
+                {"products":"1/2 tsp sesame oil"},
+                {"products":"Salt and black pepper, to taste"},
+                {"products":"2 tbsp vegetable oil or sesame oil"}
+            ],
+            "instructions":[
+                {"do":"Wash and finely chop all vegetables"},
+                {"do":"Make sure your rice is cold and separated (not clumpy)"},
+                {"do":" Heat 2 tbsp oil in a large wok or pan over medium-high heat"},
+                {"do":"Add garlic, ginger, and white part of spring onions"},
+                {"do":"Stir-fry for 30 seconds until fragrant"},
+                {"do":"Add all chopped veggies: carrots, beans, peppers, peas, cabbage"},
+                {"do":"Stir-fry on high heat for 3–5 minutes until slightly tender but still crisp"},
+                {"do":"Add the cold rice"},
+                {"do":"Stir-fry for another 2–3 minutes, breaking up any clumps"},
+                {"do":"Add soy sauce, vinegar, sesame oil, salt, and pepper"},
+                {"do":"Mix everything well until the rice is evenly coated"},
+                {"do":"Add the green parts of spring onions"},
+                {"do":"Toss once more and turn off the heat"}
+            ],
+            "time":"25 - Minutes",
+            "serving":"2-3 Peoples"
+        }
+    ]
+}
