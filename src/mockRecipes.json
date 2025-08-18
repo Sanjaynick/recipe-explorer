@@ -3,6 +3,7 @@
         {
             "id":1,
             "title":"Chicken Rice",
+            "image":"../public/assets/chicken_rice.jpeg",
             "ingredients":[
                 {"products":"1 cup cooked chicken"},
                 {"products":"2 cups cooked rice"},
@@ -44,6 +45,7 @@
          {
             "id":2,
             "title":"Egg Rice",
+             "image":"../public/assets/egg_rice.jpeg",
              "ingredients":[
                 {"products":"2 cups cooked rice (preferably cold, day-old rice)"},
                 {"products":"2–3 eggs, beaten"},
@@ -77,6 +79,7 @@
          {
             "id":3,
             "title":"Veg Rice",
+             "image":"../public/assets/veg_rice.jpeg",
             "ingredients":[
                 {"products":"2 cups cooked rice (preferably cold/day-old for best texture)"},
                 {"products":"1/2 cup carrots, finely chopped"},

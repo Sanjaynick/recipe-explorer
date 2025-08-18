@@ -6,6 +6,7 @@ import Home from './components/pages/Home'
 import RecipePage from './components/pages/RecipePage';
 import MockRecipes from './mockRecipes.json'
 import Footer from './components/Footer';
+import '../public/assets/chicken_rice.jpeg'
 
 function App() {
 
